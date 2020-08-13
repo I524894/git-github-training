@@ -1,2 +1,2 @@
 # git-github-training
-Git Training. Welcome
+Git Training. Welcome all.
